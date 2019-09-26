@@ -92,7 +92,7 @@ body {
     border-left: 1px solid #efefef;
   }
    .container-fluid{
-     background-color: transparent;
+     background-color: transparent
    }
   nav a:first-child {
     border-left: 0 none;
@@ -218,3 +218,6 @@ body {
     border: 0 none;
   }
   
+  .responsive {
+    max-width: 100%;
+    height: auto;
