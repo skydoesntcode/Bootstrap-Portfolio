@@ -65,7 +65,7 @@ body {
   
   #logo {
     float: left;
-    width: 250px;
+    width: 275px;
     height: 90px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
@@ -221,3 +221,5 @@ body {
   .responsive {
     max-width: 100%;
     height: auto;
+  }
+    
